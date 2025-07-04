@@ -27,3 +27,7 @@
   - Structure-based (White-box)
   - Experience-based Techniques
 - Understood where and how to apply each technique effectively.
+
+📅 Daily Practice Time: ~5–6 hours  
+🎯 Learning Source: [Software Testing Mentor YouTube Channel](https://www.youtube.com/@SoftwareTestingMentor)
+
